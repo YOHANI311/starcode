@@ -1,6 +1,6 @@
-## 안녕하세요👋 평범한 학생 개발자 달이예요!
+## 안녕하세요👋 평범한 학생 개발자 별이예요!
 
-- 👋 안녕하세요! 디스코드 봇 개발자 달🌖이예요!
+- 👋 안녕하세요! 디스코드 봇 개발자 별⭐이예요!
 - 👀 코딩을 배우고 있어요!
 - 🌱 제 라이벌인 달🌖 보다 코딩을 못해서 아쉬워요 ㅠㅠ
 - 💞️ 코딩을 좋아해요!
@@ -29,7 +29,8 @@
 
 ## 📮 PROJECT
 
-아쉽게도, 2022년 4월 10일, 정식으로 서비스가 종료되어서 더이상 봇을 이용할수 없어요 ㅠㅠ
+언제 BUTTER 봇이 서비스를 종료 했는지 몰라요 ㅎㅎ
+하지만 달요 봇은 2022년 03월 30일날 만들어졌어요!
 
 ### 달요
 - 전에 제가 만들던 BUTTER 봇이 서비스를 종료하고 하고 더 많은 기능, 퀄리티가 좋은 달요가 출시 됬어요!
@@ -55,3 +56,5 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=moonrabbitcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonrabbitcode&layout=compact&langs_count=7&theme=dracula"/>
+
+With. Moon & Star
